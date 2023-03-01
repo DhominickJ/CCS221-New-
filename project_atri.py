@@ -6,5 +6,5 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 
 
-st.title("This is Activity 1")
+st.title("Hello!")
 
